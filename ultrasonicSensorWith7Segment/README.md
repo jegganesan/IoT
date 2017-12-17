@@ -1,9 +1,9 @@
 Ultrasonic sensor connection: 
 
-Theh below table describes the wire connection of 
+The below table describes the wire connection of 
 	1. ultrasonic sensor to jumper
 	2. followed by jumper to extension cable 
-	3. folloed by extension cable to Arduino
+	3. followed by extension cable to Arduino
 
 
 Sensor pin	Jumper	Wire	Arduino
